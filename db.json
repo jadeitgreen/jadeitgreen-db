@@ -247,74 +247,71 @@
       ]
     }
   ],
-  "demo": [
-    {
-      "A":{
-        "1": "https://fakeimg.pl",
-        "2": "https://fakeimg.pl",
-        "3": "https://fakeimg.pl",
-        "4": "https://fakeimg.pl",
-        "5": "https://fakeimg.pl",
-        "6": "https://fakeimg.pl",
-        "7": "https://fakeimg.pl",
-        "8": "https://fakeimg.pl",
-        "9": "https://fakeimg.pl"
-      },
-      "B":{
-        "1": "https://fakeimg.pl",
-        "2": "https://fakeimg.pl",
-        "3": "https://fakeimg.pl",
-        "4": "https://fakeimg.pl",
-        "5": "https://fakeimg.pl",
-        "6": "https://fakeimg.pl",
-        "7": "https://fakeimg.pl",
-        "8": "https://fakeimg.pl",
-        "9": "https://fakeimg.pl"
-      },
-      "C":{
-        "1": "https://fakeimg.pl",
-        "2": "https://fakeimg.pl",
-        "3": "https://fakeimg.pl",
-        "4": "https://fakeimg.pl",
-        "5": "https://fakeimg.pl",
-        "6": "https://fakeimg.pl",
-        "7": "https://fakeimg.pl",
-        "8": "https://fakeimg.pl",
-        "9": "https://fakeimg.pl"
-      },
-      "D":{
-        "1": "https://fakeimg.pl",
-        "2": "https://fakeimg.pl",
-        "3": "https://fakeimg.pl",
-        "4": "https://fakeimg.pl",
-        "5": "https://fakeimg.pl",
-        "6": "https://fakeimg.pl",
-        "7": "https://fakeimg.pl",
-        "8": "https://fakeimg.pl",
-        "9": "https://fakeimg.pl"
-      },
-      "E":{
-        "1": "https://fakeimg.pl",
-        "2": "https://fakeimg.pl",
-        "3": "https://fakeimg.pl",
-        "4": "https://fakeimg.pl",
-        "5": "https://fakeimg.pl",
-        "6": "https://fakeimg.pl",
-        "7": "https://fakeimg.pl",
-        "8": "https://fakeimg.pl",
-        "9": "https://fakeimg.pl"
-      },
-      "F":{
-        "1": "https://fakeimg.pl",
-        "2": "https://fakeimg.pl",
-        "3": "https://fakeimg.pl",
-        "4": "https://fakeimg.pl",
-        "5": "https://fakeimg.pl",
-        "6": "https://fakeimg.pl",
-        "7": "https://fakeimg.pl",
-        "8": "https://fakeimg.pl",
-        "9": "https://fakeimg.pl"
-      }
+  "demo": {  
+    "A":{
+      "1": "https://fakeimg.pl",
+      "2": "https://fakeimg.pl",
+      "3": "https://fakeimg.pl",
+      "4": "https://fakeimg.pl",
+      "5": "https://fakeimg.pl",
+      "6": "https://fakeimg.pl",
+      "7": "https://fakeimg.pl",
+      "8": "https://fakeimg.pl",
+      "9": "https://fakeimg.pl"
+    },
+    "B":{
+      "1": "https://fakeimg.pl",
+      "2": "https://fakeimg.pl",
+      "3": "https://fakeimg.pl",
+      "4": "https://fakeimg.pl",
+      "5": "https://fakeimg.pl",
+      "6": "https://fakeimg.pl",
+      "7": "https://fakeimg.pl",
+      "8": "https://fakeimg.pl",
+      "9": "https://fakeimg.pl"
+    },
+    "C":{
+      "1": "https://fakeimg.pl",
+      "2": "https://fakeimg.pl",
+      "3": "https://fakeimg.pl",
+      "4": "https://fakeimg.pl",
+      "5": "https://fakeimg.pl",
+      "6": "https://fakeimg.pl",
+      "7": "https://fakeimg.pl",
+      "8": "https://fakeimg.pl",
+      "9": "https://fakeimg.pl"
+    },
+    "D":{
+      "1": "https://fakeimg.pl",
+      "2": "https://fakeimg.pl",
+      "3": "https://fakeimg.pl",
+      "4": "https://fakeimg.pl",
+      "5": "https://fakeimg.pl",
+      "6": "https://fakeimg.pl",
+      "7": "https://fakeimg.pl",
+      "8": "https://fakeimg.pl",
+      "9": "https://fakeimg.pl"
+    },
+    "E":{
+      "1": "https://fakeimg.pl",
+      "2": "https://fakeimg.pl",
+      "3": "https://fakeimg.pl",
+      "4": "https://fakeimg.pl",
+      "5": "https://fakeimg.pl",
+      "6": "https://fakeimg.pl",
+      "7": "https://fakeimg.pl",
+      "8": "https://fakeimg.pl",
+      "9": "https://fakeimg.pl"
+    },
+    "F":{
+      "1": "https://fakeimg.pl",
+      "2": "https://fakeimg.pl",
+      "3": "https://fakeimg.pl",
+      "4": "https://fakeimg.pl",
+      "5": "https://fakeimg.pl",
+      "6": "https://fakeimg.pl",
+      "7": "https://fakeimg.pl",
+      "8": "https://fakeimg.pl",
+      "9": "https://fakeimg.pl"
     }
-  ]
 }
