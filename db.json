@@ -247,7 +247,7 @@
       ]
     }
   ],
-  "demo": {  
+  "demo": {
     "A":{
       "1": "https://fakeimg.pl",
       "2": "https://fakeimg.pl",
@@ -314,4 +314,5 @@
       "8": "https://fakeimg.pl",
       "9": "https://fakeimg.pl"
     }
+  }
 }
